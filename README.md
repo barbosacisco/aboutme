@@ -19,5 +19,5 @@
 
 ---
 ### 📬 Contacts
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/barbosacisco/)
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/ricardoabarbosa/)
 ---
