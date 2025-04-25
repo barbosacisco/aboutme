@@ -18,7 +18,6 @@
 - **Security:** DefectDojo, Anchore Grype, and Trivy
 
 ---
-
 ### 📬 Contacts
 - 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/barbosacisco/)
 ---
