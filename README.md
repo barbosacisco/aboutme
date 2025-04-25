@@ -1,7 +1,5 @@
 ### Hi there! I'm Ricardo Barbosa.
 
-🚀 **DevOps Engineer**
-
 💼 14+ years in tech, working as a DevOps Engineer since 2018 across the Healthcare, Education, HR Tech, and AI sectors.
 
 🛠️ Focused on Infrastructure as Code and building useful tools.
