@@ -4,7 +4,7 @@
 
 💼 14+ years in tech, working as a DevOps Engineer since 2018 across the Healthcare, Education, HR Tech, and AI sectors.
 
-🛠️ Focused on IaC automation, Amazon Web Services (AWS) cloud, and building useful tools.
+🛠️ Focused on IaC automation and building useful tools.
 
 ---
 
